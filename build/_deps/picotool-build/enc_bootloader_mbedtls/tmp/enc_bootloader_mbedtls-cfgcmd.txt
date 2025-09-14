@@ -1,0 +1,1 @@
+cmd='C:/esp/tools/tools/cmake/3.30.2/bin/cmake.exe;-DCMAKE_MAKE_PROGRAM:FILEPATH=C:/esp/tools/tools/ninja/1.12.1/ninja.exe;-DPICO_SDK_PATH:FILEPATH=C:/pico-sdk;-DUSE_PRECOMPILED:BOOL=true;-DUSE_MBEDTLS=1;-DPICO_DEBUG_INFO_IN_RELEASE=OFF;-GNinja;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

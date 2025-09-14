@@ -1,0 +1,7 @@
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/picotool.exe
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/picotoolTargets.cmake
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/picotoolTargets-release.cmake
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/picotoolConfig.cmake
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/picotoolConfigVersion.cmake
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/enc_bootloader.elf
+C:/pico-examples/usb/device/dev_hid_composite/build/_deps/picotool/enc_bootloader_mbedtls.elf
